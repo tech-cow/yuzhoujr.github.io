@@ -1,0 +1,47 @@
+.icon,.bg-1,.bg-2,body, html, main {
+    /* important */
+     height: 100%;
+}
+
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+.bg-1{
+  background-color: #25283D; /* Green */
+  color: #FFFAFB;
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-2{
+  background: #FFFAFB ;
+  color: #25283D ;
+  background-size: cover;
+  background-position: center;
+}
+
+#content{
+  text-align: center;
+  padding-top: 10%;
+  /*padding-bottom: 0%;*/
+}
+
+.main-header{
+    font-size: 53px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.sub-header{
+    display: block;
+    font-size: 22px;
+}
+
+.icon{
+  font-size: 20px;
+  padding-left: 2%;
+  padding-top: 5%;
+  letter-spacing: 20px;
+  height: 100%
+}
