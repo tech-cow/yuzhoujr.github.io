@@ -1,0 +1,17 @@
+body{
+  background-color: #232323;
+}
+
+.square{
+  width: 30%;
+  margin: 1.66%;
+  float: left;
+  background: white;
+  padding-bottom: 30%;
+  margin: 1.66%;
+}
+
+#container{
+  margin: 10% auto;
+  width: 50%;
+}
