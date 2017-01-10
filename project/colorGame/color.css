@@ -13,5 +13,10 @@ body{
 
 #container{
   margin: 10% auto;
-  width: 50%;
+  max-width: 500px;
+}
+
+#title{
+  text-align: center;
+  color: white;
 }
