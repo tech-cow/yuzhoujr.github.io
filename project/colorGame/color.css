@@ -1,5 +1,6 @@
 body{
   background-color: #232323;
+  font-family: "Avenir";
 }
 
 .square{
@@ -9,19 +10,63 @@ body{
   background: white;
   padding-bottom: 30%;
   margin: 1.66%;
+  border-radius: 15%;
+  transition: background 0.6s;
+  //broswer friendly
+  --webkit-transition: background 0.6s;
+  --moz-transition: background 0.6s;
 }
 
 #container{
-  margin: 10% auto;
+  margin: 20px auto;
   max-width: 500px;
 }
 
 #title{
   text-align: center;
+  line-height: 1.1;
   color: white;
+  background: steelblue;
+  margin: 0;
+  font-weight: normal;
+  text-transform: uppercase;
+  padding: 20px 0;
 }
 
-span{
-  /*text-align: center;*/
+#color_display{
+  font-size: 200%;
+}
+
+#stripe{
+  background-color: white;
+  text-align: center;
+  color: black;
+}
+
+button{
+  border-style: hidden;
+  background-color: white;
+  color: steelblue;
+  /*text-transform: uppercase;*/
+  height: 100%;
+  font-size: inherit;
+  transition: all 0.5s;
+  --webkit-transition: all 0.5s;
+  --moz-transition: all 0.5s;
+  outline: none;
+}
+
+#message{
+  display: inline-block;
+  width: 20%;
+}
+
+.selected {
+  background: steelblue;
+  color : white;
+}
+
+button:hover {
   color: white;
+  background: steelblue;
 }
