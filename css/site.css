@@ -85,3 +85,7 @@ body{
   letter-spacing: 20px;
   height: 100%
 }
+
+.cap{
+  text-transform: uppercase;
+}
