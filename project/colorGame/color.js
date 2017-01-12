@@ -16,9 +16,6 @@ var mode_button = document.querySelectorAll('.mode');
 
 init();
 
-
-
-
 reset_button.addEventListener('click', function() {
     reset();
 });
