@@ -1,10 +1,15 @@
 .project, .icon,.bg-1,.bg-2,body, html, main {
     /* important */
      height: 100%;
+     font-family: 'Cabin Sketch', cursive;
+
 }
 
 body{
-    font-family: 'Poppins', sans-serif;
+    /*font-family: 'Poppins', sans-serif;*/
+    /*font-family: 'Luckiest Guy', cursive;*/
+    /*font-family: 'Cabin Sketch', cursive;*/
+
 }
 
 .bg-1{
@@ -76,13 +81,15 @@ body{
 
 .main-header{
     font-size: 53px;
-    font-weight: 700;
+    font-weight:700;
+    font-weight: bold;
     letter-spacing: 1px;
 }
 
 .sub-header{
     display: block;
     font-size: 22px;
+
 }
 
 
