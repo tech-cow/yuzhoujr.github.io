@@ -29,10 +29,12 @@ body{
 }
 
 #content{
-    text-align: center;
     padding-top: 10%;
-    width: 100%;
-    /*text-shadow: 0px 1px 2px;*/
+    /*width: 50%;*/
+    /*background: green;*/
+    text-align: center;
+
+
 }
 
 #project-content{
@@ -85,12 +87,33 @@ body{
 
 
 .icon{
-  font-size: 20px;
-  padding-left: 2%;
-  padding-top: 5%;
-  padding-bottom: 5%;
-  letter-spacing: 20px;
-  height: 100%
+  font-size: 18px;
+  margin: 50px 0 50px 0;
+
+
+}
+
+.bg-1 ul li{
+  display:inline-block;
+  /*border: 5px solid white;*/
+}
+
+#left_icon{
+  margin-right: 3%;
+}
+
+.mid_icon{
+  margin: 0 3%;;
+}
+
+#right_icon{
+  margin-left: 3%;
+}
+
+
+ul {
+  padding: 0;
+  list-style-type: none;
 }
 
 .cap{
