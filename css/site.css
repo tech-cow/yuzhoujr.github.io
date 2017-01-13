@@ -1,4 +1,4 @@
-.icon,.bg-1,.bg-2,body, html, main {
+.project, .icon,.bg-1,.bg-2,body, html, main {
     /* important */
      height: 100%;
 }
@@ -12,6 +12,13 @@ body{
     color: #FFFAFB;
     background-size: cover;
     background-position: center;
+}
+
+.project{
+  background: white;
+  background-size: cover;
+  background-position: center;
+  color: #25283D;
 }
 
 .bg-2{
