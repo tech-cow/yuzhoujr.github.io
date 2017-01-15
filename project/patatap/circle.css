@@ -5,6 +5,12 @@ body,html{
 
 canvas{
   width: 100%;
-  height: 100%;
+  /*height: 7%;*/
   background: black;
+}
+
+.container{
+  text-align: center;
+  color: white;
+  font-family: 'Cabin Sketch', cursive;
 }
