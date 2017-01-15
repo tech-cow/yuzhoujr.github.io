@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Circle</title>
+  <!-- Paper Js -->
+  <script src="paper-full.js" charset="utf-8"></script>
+
+  <!-- canvas -->
+  <script type="text/paperscript" canvas="myCanvas">
+  // Variable
+    var circles = [];
+    var maxPoint = new Point(view.size.width, view.size.height);
+
+  //Key Event
+    function onKeyDown(event) {
+      // console.log(maxPoint);
+      var randomPoint = Point.random();
+      var point = maxPoint * randomPoint;
+      var newCircle = new Path.Circle(point, 500);
+      newCircle.fillColor = "orange";
+      circles.push(newCircle);
+      console.log(circles);
+    }
+
+    function onFrame(event){
+      for (var i = 0; i < circles.length; i++) {
+        circles[i].fillColor.hue += 5;
+        circles[i].scale(0.9);
+      }
+    }
+
+    // var sound = new Howl({
+    //   src: ['sound.mp3']
+    // });
+    //
+    // sound.play();
+
+
+
+  </script>
+
+  <!-- Customized CSS -->
+  <link rel="stylesheet" href="circle.css">
+</head>
+
+
+
+
+
+<body>
+  <canvas id="myCanvas" resize></canvas>
+</body>
+
+
+
+
+
+</html>
