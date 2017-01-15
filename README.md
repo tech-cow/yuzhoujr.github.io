@@ -1,4 +1,6 @@
 # yuzhoujr.github.io
 
 
-https://www.youtube.com/watch?v=MZZNHgX1GYg&index=8&list=PLt7bG0K25iXjKqU8Ol0y0x9MUOjOwxJ6Q
+My personal website where I blog about anything on my mind and also a personal portfolio.
+
+I use Jekyll, a static generator in Ruby, to create this blog.
