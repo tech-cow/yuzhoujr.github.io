@@ -212,6 +212,16 @@
       <h1>Let the magic begins</h1>
       <h2>Hit any keys!</h2>
   </div>
+
+  <script type="text/javascript">
+      var instructions = document.getElementsByClassName('container');
+      document.body.onkeydown = function() {
+        if(instructions[0].style.display === "") {
+          instructions[0].style.display = "none";
+        }
+      };
+  </script>
+
   <canvas id="myCanvas" resize></canvas>
 </body>
 
