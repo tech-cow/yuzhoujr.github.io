@@ -13,17 +13,17 @@ var github_display = "Github: yuzhoujr"
 
 /****-- Events --****/
 email.addEventListener('mouseover', function(e) {
-  dynamic_text.textContent = email_display;
+    dynamic_text.textContent = email_display;
 });
 
 resume.addEventListener('mouseover', function(e) {
-  dynamic_text.textContent = resume_display;
+    dynamic_text.textContent = resume_display;
 });
 
 linkedin.addEventListener('mouseover', function(e) {
-  dynamic_text.textContent = linkedin_display;
+    dynamic_text.textContent = linkedin_display;
 });
 
 github.addEventListener('mouseover', function(e) {
-  dynamic_text.textContent = github_display;
+    dynamic_text.textContent = github_display;
 });
