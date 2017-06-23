@@ -1,0 +1,113 @@
+.project, .icon, .bg-1, .bg-2, body, html, main {
+    /* important */
+    height: 100%;
+    font-family: 'Cabin Sketch', cursive;
+}
+
+.bg-1 {
+    background-color: #25283D;
+    /* Green */
+    color: #FFFAFB;
+    background-size: cover;
+    background-position: center;
+}
+
+.project {
+    background: white;
+    background-size: cover;
+    background-position: center;
+    color: #25283D;
+}
+
+.bg-2 {
+    background: #FFFAFB;
+    color: #25283D;
+    background-size: cover;
+    background-position: center;
+}
+
+#content {
+    padding-top: 10%;
+    /*width: 50%;*/
+    /*background: green;*/
+    text-align: center;
+}
+
+#project-content {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 100%;
+}
+
+.project-image {
+    padding-top: 1.5%;
+}
+
+.project-link {
+    padding-top: 4%;
+}
+
+.project-link a {
+    margin-left: 17px;
+    margin-right: 10px;
+}
+
+.project-description {
+    padding-top: 3%;
+    font-size: 18px;
+}
+
+.bg-1 .btn-secondary {
+    background-color: #FFFAFB;
+    color: #25283D;
+}
+
+.bg-2 .btn-secondary {
+    background-color: #25283D;
+    color: #FFFAFB;
+}
+
+.main-header {
+    font-size: 53px;
+    font-weight: 700;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.sub-header {
+    display: block;
+    font-size: 22px;
+}
+
+.icon {
+    font-size: 18px;
+    margin: 50px 0 50px 0;
+}
+
+.bg-1 ul li {
+    display: inline-block;
+    /*border: 5px solid white;*/
+}
+
+#left_icon {
+    margin-right: 3%;
+}
+
+.mid_icon {
+    margin: 0 3%;
+    ;
+}
+
+#right_icon {
+    margin-left: 3%;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.cap {
+    text-transform: uppercase;
+}
