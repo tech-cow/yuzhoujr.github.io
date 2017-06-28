@@ -6,16 +6,31 @@
 
 </h1>
 
-<h4 align="center">A simple person website</h4>
+<h4 align="center">Yu Zhou</h4>
+
 
 <p align="center">
- ![Language](https://img.shields.io/badge/language-JavaScript-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![Progress](https://img.shields.io/badge/hosting-GitHub Page-ff69b4.svg)
+  <a>
+    <img src="https://img.shields.io/badge/language-JavaScript-orange.svg" alt="language">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/hosting-GitHub Page-ff69b4.svg
+" alt="license">
+  </a>
+
+</p>
+
+<br>
+
 
 
 
 ![screenshot](https://preview.ibb.co/iHm9xk/screencapture_yuzhoujr_1498633991601.png)
 
-</p>
+
 ## Built With
 - [Jekyll](https://jekyllrb.com/) - Static site generator
 - [GitHub Page](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/) - Hosting
