@@ -6,7 +6,7 @@
 
 </h1>
 
-<h4 align="center">Success is like pregnancy, Everybody congratulates you but nobody knows how many times you were screwed to achieve it.</h4>
+<h4 align="center">Success is like pregnancy, everybody congratulates you but nobody knows how many times you were screwed to achieve it.</h4>
 
 
 <p align="center">
@@ -16,11 +16,6 @@
   <a>
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
   </a>
-  <a>
-    <img src="https://img.shields.io/badge/hosting-GitHub_Page-ff69b4.svg
-" alt="license">
-  </a>
-
 </p>
 
 <br>
