@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="http://yuzhoujr.com/image/logo.jpg" alt="yuzhoujr" width="200"></a>
+  <a href="http://yuzhoujr.com"><img src="http://yuzhoujr.com/image/logo.jpg" alt="yuzhoujr" width="200"></a>
 
 </h1>
 
@@ -26,9 +26,11 @@
 <br>
 
 
+<h1 align="center">
+  <br>
+  <a href="https://yuzhoujr.com"><img src="https://preview.ibb.co/iHm9xk/screencapture_yuzhoujr_1498633991601.png" alt="demo"></a>
 
-
-![screenshot](https://preview.ibb.co/iHm9xk/screencapture_yuzhoujr_1498633991601.png)
+</h1>
 
 
 ## Built With
