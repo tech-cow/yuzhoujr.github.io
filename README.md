@@ -40,4 +40,4 @@ MIT
 
 > [yuzhoujr.com](https://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
 > GitHub [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
-> LinkedIn [@yuzhoujr](linkedin.com/in/yuzhoujr)
+> LinkedIn [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
