@@ -6,15 +6,13 @@
 
 <h4 align="center">Success is like pregnancy, everybody congratulates you but nobody knows how many times you were screwed to achieve it.</h4>
 
-
 <p align="center">
-  <a>
-    <img src="https://img.shields.io/badge/language-JavaScript-orange.svg" alt="language">
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
-  </a>
+  <img src="https://img.shields.io/badge/language-JavaScript-orange.svg?style=flat-square">
+  <img src="https://img.shields.io/badge/build-passing-yellow.svg?style=flat-square">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square">
+  <img src="https://img.shields.io/badge/downloads-0k-yellow.svg?style=flat-square">
 </p>
+
 
 <br>
 
