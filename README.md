@@ -32,12 +32,10 @@
 - [Jekyll](https://jekyllrb.com/) - Static site generator
 - [GitHub Page](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/) - Hosting
 
-#### License
+## License
 
-MIT
+🌱 MIT 🌱
 
 ---
 
-> [yuzhoujr.com](https://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
-> GitHub [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
-> LinkedIn [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
+> ![home](http://yuzhoujr.com/emoji/home.svg) [yuzhoujr.com](http://www.yuzhoujr.com) · ![github](http://yuzhoujr.com/emoji/github.svg) [@yuzhoujr](https://github.com/yuzhoujr) · ![linkedin](http://yuzhoujr.com/emoji/linkedin.svg) [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
