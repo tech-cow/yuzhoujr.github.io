@@ -1,5 +1,3 @@
-# yuzhoujr.github.io
-
 <h1 align="center">
   <br>
   <a href="http://yuzhoujr.com"><img src="http://yuzhoujr.com/image/logo.jpg" alt="yuzhoujr" width="200"></a>
@@ -29,8 +27,12 @@
 
 
 ## Built With
-- [Jekyll](https://jekyllrb.com/) - Static site generator
-- [GitHub Page](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/) - Hosting
+Tool    |      Description
+---------- | :--------------------:
+`Jekyll`  | Static site generator
+`GitHub Page` | Hosting
+
+
 
 ## License
 
