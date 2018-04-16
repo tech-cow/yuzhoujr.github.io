@@ -1,474 +1,53 @@
-<!DOCTYPE html>
-<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html lang="en">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <title>Yu Zhou's Portfolio</title>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <title>Yu Zhou's Portfolio</title>
 
-    <!-- Search Optimization -->
-    <meta name="keywords" content="Software, Engineer, Design, Backend, Fullstack, Yu, Zhou, Graphic Design, Web,logo, App, Mobile">
-    <meta name="description" content="Hire a nice young man :)">
-    <meta name="author" content="Yu Zhou">
+  <!-- Search Optimization -->
+  <meta name="keywords" content="Software, Engineer, Design, Backend, Fullstack, Yu, Zhou, Graphic Design, Web,logo, App, Mobile">
+  <meta name="description" content="Hire a nice young man :)">
+  <meta name="author" content="Yu Zhou">
 
-    <!-- Font + DNS -->
-    <link href="https://fonts.googleapis.com/css?family=Reenie+Beanie|Short+Stack" rel="stylesheet">
-    <script src="https://use.fontawesome.com/25348efe4e.js"></script>
-    <link rel='dns-prefetch' href='//code.jquery.com' />
-    <link rel='dns-prefetch' href='//platform-api.sharethis.com' />
-    <link rel='dns-prefetch' href='//s.w.org' />
-    <script type='text/javascript' src='https://code.jquery.com/jquery-latest.min.js?ver=4.7.5'></script>
-    <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="css/site.css">
-
-    <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+  <!-- Font + DNS -->
+  <link rel="stylesheet" href="sqmarket-font.css">
+  <link rel="stylesheet" href="index.css">
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 
 </head>
 
-<body class="home blog">
-    <header id="masthead" class="site-header group">
-        <div id="header-contents">
-            <span class="site-branding" href="https://yuzhoujr.github.io/">Yu Zhou<br><span class="tagline">Full Stack Engineer</span></span>
-            <div class="site-navigation">
-                <!-- Cross Image -->
-                <img id="information" src="image/cross.png">
-            </div>
-        </div>
-        <a href="https://yuzhoujr.github.io/">
-            <!-- Logo ajusted in CSS -->
-            <div class="my-logo"></div>
-        </a>
+<body>
+  <div class="container pagehead">
+    <h1 id="title"></h1>
+    <img class="logo" src="/logo.jpg">
+    <a id="github" href="" target="_blank"></a>
+  </div>
 
-    </header>
-
-    <!-- Dynamic Information Display w/ All Contact Detail -->
-    <div class="further-menu open">
-        <div class="further-menu-left">
-            <span class="second-site-branding" href="https://yuzhoujr.github.io/">Yu Zhou<br><span class="tagline">Full Stack Engineer</span></span>
-            <span class="small-detail">copyright © 2017</span>
-        </div>
-        <div class="further-menu-right">
-            <a href="mailto:yu.zhou.jr@gmail.com">yu.zhou.jr@gmail.com</a><br>
-            <span class="dark-color">303-330-4965</span><br>
-            <span class="social-icon"><i class="fa fa-linkedin"></i></span><a target="_blank" href="https://www.linkedin.com/in/yuzhoujr">LinkedIn</a><br>
-            <span class="social-icon"><i class="fa fa-file-pdf-o"></i></span><a target="_blank" href="YZ_Resume.pdf">Resume</a><br>
-            <span class="social-icon"><i class="fa fa-github"></i></span><a target="_blank" href="https://www.github.com/yuzhoujr">GitHub</a></span>
-        </div>
+  <div class="container profile">
+    <div class="fafa">
+      <span><a href="https://www.linkedin.com/in/yuzhoujr/" target="_blank"><i class="fa fa-linkedin fa-lg fa-fw" style="color:#4D625B;"></i></a></span>
+      <span><a href="https://github.com/yuzhoujr/" target="_blank"><i class="fa fa-github fa-lg fa-fw" style="color:#4D625B;"></i></a></span>
+      <span><a href="https://www.youtube.com/channel/UC4uu3FX_rHR56utVjl9SMEA" target="_blank"><i class="fa fa-youtube fa-lg fa-fw" style="color:#4D625B;"></i></a></span>
     </div>
+    <p id="description"></p>
+    <ul id="category-menu"></ul>
+  </div>
 
 
-    <!-- Windows/Mac Devices: Project SlideShow -->
-    <div id="content-wrapper">
-        <div id="content" class="site-content">
-            <div id="featured-slider">
-                <div id="soliloquy-container-45" class="soliloquy-container soliloquy-fade soliloquy-preloader" style="max-width: 1920px; max-height: 1080px; ">
-                    <div id="soliloquy-45" class="soliloquy">
-                        <ul id="soliloquy-list-45" class="soliloquy-slides">
+  <!-- Content -->
+  <div class="container" id="content">
+  </div>
 
-                            <!-- Item1 -->
-                            <li id="soliloquy-45-item-1" class="soliloquy-item soliloquy-image-slide" style="display: none;">
-                                <!-- <a href="https://github.com/yuzhoujr/big4/tree/master/webdevbootcamp/yelpCamp" title="YelpCamp"> -->
-                                <img class="soliloquy-item-image" src="image/desktop_slide/tweetme.jpg" alt="CU Mockup" title="CU Mockup" />
-                                </a>
-                            </li>
-
-                            <!-- Item2 -->
-                            <li id="soliloquy-45-item-2" class="soliloquy-item soliloquy-image-slide" style="display: none;">
-                                <!-- <a href="" title=""> -->
-                                <img class="soliloquy-item-image" src="image/desktop_slide/lol.jpg" alt="Brewshack Labels" title="Brewshack" />
-                                </a>
-                            </li>
-
-                            <!-- Item3 -->
-                            <li id="soliloquy-45-item-3" class="soliloquy-item soliloquy-image-slide" style="display: none;">
-                                <!-- <a href="https://github.com/yuzhoujr/big4/tree/master/webdevbootcamp/yelpCamp" title="YelpCamp"> -->
-                                <img class="soliloquy-item-image" src="image/desktop_slide/cumockup.jpg" alt="Brewshack Labels" title="Brewshack" />
-                                </a>
-                            </li>
-
-                            <!-- Item4 -->
-                            <li id="soliloquy-45-item-4" class="soliloquy-item soliloquy-image-slide" style="display: none;">
-                                <!-- <a href="" title=""> -->
-                                <img class="soliloquy-item-image" src="image/desktop_slide/patatap.jpg" alt="Brewshack Labels" title="Brewshack" />
-                                </a>
-                            </li>
-                            <!-- Item5 -->
-                            <li id="soliloquy-45-item-5" class="soliloquy-item soliloquy-image-slide" style="display: none;">
-                                <!-- <a href="" title=""> -->
-                                <img class="soliloquy-item-image" src="image/desktop_slide/yelpground.jpg" alt="Brewshack Labels" title="Brewshack" />
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <style type="text/css">
-                    .soliloquy-container.soliloquy-preloader {
-                        background: url("https://yuzhoujr.github.io/image/preloader.gif") no-repeat scroll 50% 50%;
-                    }
-
-                    @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
-                    only screen and (-o-min-device-pixel-ratio: 3/2),
-                    only screen and (min--moz-device-pixel-ratio: 1.5),
-                    only screen and (min-device-pixel-ratio: 1.5) {
-                        .soliloquy-container.soliloquy-preloader {
-                            background-image: url("https://yuzhoujr.github.io/image/preloader2.gif");
-                            background-size: 16px 16px;
-                        }
-                    }
-                </style>
-            </div>
-
-
-
-            <!--Tablets/Mobile Slide Display -->
-            <div id="small-featured-slider">
-                <div id="soliloquy-container-1035" class="soliloquy-container soliloquy-fade soliloquy-preloader" style="max-width: 600px; max-height: 300px; ">
-                    <div id="soliloquy-1035" class="soliloquy">
-                        <ul id="soliloquy-list-1035" class="soliloquy-slides">
-
-                            <!-- Slide1 -->
-                            <li id="soliloquy-1035-item-1" class="soliloquy-item soliloquy-image-slide" style="display: none;">
-                              <!-- <a href="" title=""> -->
-                                <img class="soliloquy-item-image" src="image/mobile_slide/cu.jpg"/>
-                                </a>
-                            </li>
-
-                            <!-- Slide2 -->
-                            <li id="soliloquy-1035-item-2" class="soliloquy-item soliloquy-image-slide" style="display: none;">
-                                <!-- <a href="" title=""> -->
-                                <img class="soliloquy-item-image" src="image/mobile_slide/lol.jpg"/>
-                                </a>
-                            </li>
-
-                            <!-- Slide3 -->
-                            <li id="soliloquy-1035-item-3" class="soliloquy-item soliloquy-image-slide" style="display: none;">
-                              <!-- <a href="" title=""> -->
-                                <img class="soliloquy-item-image" src="image/mobile_slide/yelpground.jpg"/>
-                                </a>
-                            </li>
-                            <!-- Slide4 -->
-                            <li id="soliloquy-1035-item-4" class="soliloquy-item soliloquy-image-slide" style="display: none;">
-                              <!-- <a href="" title=""> -->
-                                <img class="soliloquy-item-image" src="image/mobile_slide/patatap.jpg"/>
-                                </a>
-                            </li>
-
-                            <!-- Slide5 -->
-                            <li id="soliloquy-1035-item-5" class="soliloquy-item soliloquy-image-slide" style="display: none;">
-                              <!-- <a href="" title=""> -->
-                                <img class="soliloquy-item-image" src="image/mobile_slide/python.jpg"/>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Grid Display -->
-            <div id="thumb-container" class="group">
-
-                <!-- YelpCamp -->
-                <div class="thumb-project-container">
-                    <div class="content-container">
-                        <a href="https://github.com/yuzhoujr/big4/tree/master/webdevbootcamp/yelpCamp">
-                            <img src="image/desktop_slide/yelpground.jpg" alt="YelpCamp image" title="YelpCamp thumbnail image">
-                            <div class="thumb-overlay">
-                                <div class="t-text">
-                                    <h1>YelpCamp</h1>
-                                    <div class="entry-meta-thumb">
-                                        Node.js | mongoDB | RESTful | Passport.js | Heroku </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-
-                <!-- SimpleURL: In Progress -->
-                <div class="thumb-project-container">
-                    <div class="content-container">
-                        <a href="https://github.com/yuzhoujr/SimpleURL">
-                            <img src="image/simpleurl.jpg" alt="URL thumbnail image" title="URL thumbnail image">
-                            <div class="thumb-overlay">
-                                <div class="t-text">
-                                    <h1>SimpleURL (In Progress)</h1>
-                                    <div class="entry-meta-thumb">
-                                        python | django | bootstrape | Heroku </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <!-- TweetYu: In Progress -->
-                <div class="thumb-project-container">
-                    <div class="content-container">
-                        <!-- <a href=""> -->
-                        <img src="image/tweetme.jpg" alt="tweetme thumbnail image" title="tweetme thumbnail image">
-                        <div class="thumb-overlay">
-                            <div class="t-text">
-                                <h1>TweetYu (In Progress)</h1>
-                                <div class="entry-meta-thumb">
-                                    python | django | bootstrape | Heroku </div>
-                            </div>
-                        </div>
-
-                        </a>
-                    </div>
-                </div>
-
-                <!-- PataTap -->
-                <div class="thumb-project-container">
-                    <div class="content-container">
-                        <a href="https://yuzhoujr.github.io/project/patatap/">
-                            <img src="image/patatap.jpg" alt="patatap thumbnail image" title="patatap thumbnail image">
-                            <div class="thumb-overlay">
-                                <div class="t-text">
-                                    <h1>PataTap</h1>
-                                    <div class="entry-meta-thumb">
-                                        JavaScript | Paper.js | Howler.js </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-
-                <!-- Science Discovery -->
-                <div class="thumb-project-container">
-                    <div class="content-container">
-                        <a href="http://cusdwebapp.github.io/">
-                            <img class="thumb" src="image/desktop_slide/cumockup.jpg" alt="SD thumbnail image" title="SD thumbnail image">
-                            <div class="thumb-overlay">
-                                <div class="t-text">
-                                    <h1>Science Discovery | University of Colorado</h1>
-                                    <div class="entry-meta-thumb">
-                                        Jekyll | GitHub Pages | JavaScript </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <!-- League of Legends Data Mining -->
-                <div class="thumb-project-container">
-                    <div class="content-container">
-                        <a href="https://github.com/rhartsfield/DataMiningLoL/tree/master/webapp">
-                            <img class="thumb" src="image/lol.jpg" alt="LOL thumbnail image" title="LOL thumbnail image">
-                            <div class="thumb-overlay">
-                                <div class="t-text">
-                                    <h1>LeagueMe</h1>
-                                    <div class="entry-meta-thumb">
-                                        Python | Flask | Machine Learning | Scikit-Learn </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <!-- Personal Portfolio -->
-                <div class="thumb-project-container">
-                    <div class="content-container">
-                        <a href="https://yuzhoujr.com/">
-                            <img src="image/portfolio.jpg" alt="portfolio thumbnail image" title="portfolio thumbnail image">
-                            <div class="thumb-overlay">
-                                <div class="t-text">
-                                    <h1>yuzhoujr.come</h1>
-                                    <div class="entry-meta-thumb">
-                                        Jekyll | GitHub Pages | JavaScript | jQuery (LazyLoad) </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <!-- Serenity Forge UI Mockup -->
-                <div class="thumb-project-container">
-                    <div class="content-container">
-                        <a href="UI.pdf">
-                            <img src="image/UI.jpg" alt="UI thumbnail image" title="UI thumbnail image">
-                            <div class="thumb-overlay">
-                                <div class="t-text">
-                                    <h1>Serenity Forge Website UI Mockup</h1>
-                                    <div class="entry-meta-thumb">
-                                        Photoshop | Chrome DevTools </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <!-- YoDo -->
-                <div class="thumb-project-container">
-                    <div class="content-container">
-                        <a href="https://yuzhoujr.github.io/project/todolist/index.html">
-                            <img src="image/yodo.jpg" alt="YoDo thumbnail image" title="YoDo thumbnail image">
-                            <div class="thumb-overlay">
-                                <div class="t-text">
-                                    <h1>YoDo Tasklist</h1>
-                                    <div class="entry-meta-thumb">
-                                        javaScript | jQuery </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-
-
-
-                <!-- Template End Here -->
-            </div>
-        </div>
-        <!-- .thumb-container -->
-    </div>
-    <!-- #content -->
-
-    </div>
-    <!-- #content-wrapper -->
-
-    <footer></footer>
-    <!-- #colophon -->
-
-    <script src="js/General.js" charset="utf-8"></script>
-    <script src="js/jquery.lazyload.min.js" charset="utf-8"></script>
-
-
-    <!-- Start of StatCounter Code -->
-
-    <!-- End of StatCounter Code -->
-
-
-    <!-- Start of Google Analytics API -->
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-101620911-1', 'auto');
-      ga('send', 'pageview');
-
-    </script>
-    <!-- End of Google Analytics API -->
-
-
-
-    <!-- Code Embeded from StudioContents -->
-    <link rel='stylesheet' id='soliloquy-style-css' href='https://studiocontents.com/wp-content/plugins/soliloquy/css/soliloquy.css?ver=4.7.5' type='text/css' media='all' />
-    <script type='text/javascript' src='https://studiocontents.com/wp-includes/js/wp-embed.min.js?ver=4.7.5'></script>
-    <script type='text/javascript' src='https://studiocontents.com/wp-content/plugins/soliloquy/js/soliloquy.js?ver=1.0.0'></script>
-    <script type="text/javascript">
-        jQuery(document).ready(function($) {
-            $("#soliloquy-container-45").css({
-                "height": (Math.round($("#soliloquy-container-45").width() / 1.77777777778))
-            });
-        });
-        jQuery(window).load(function() {
-            var $ = jQuery;
-            $('#soliloquy-45').soliloquy({
-                animation: 'fade',
-                slideshow: true,
-                slideshowSpeed: 6000,
-                animationSpeed: 700,
-                directionNav: false,
-                controlNav: false,
-                keyboard: true,
-                multipleKeyboard: true,
-                mousewheel: false,
-                pausePlay: false,
-                randomize: false,
-                startAt: 0,
-                animationLoop: true,
-                pauseOnAction: true,
-                pauseOnHover: false,
-                controlsContainer: '#soliloquy-container-45',
-                manualControls: '',
-                video: false,
-                useCSS: true,
-                reverse: false,
-                smoothHeight: false,
-                touch: true,
-                initDelay: 0,
-                namespace: 'soliloquy-',
-                selector: '.soliloquy-slides > li',
-                start: function(slider) {
-                    soliloquySlider45 = slider;
-                    var soliloquy_holder = jQuery(slider).find("img.soliloquy-item-image");
-                    if (0 !== soliloquy_holder.length) {
-                        var soliloquy_images = ([]).concat(soliloquy_holder.splice(0, 2), soliloquy_holder.splice(-2, 2), jQuery.makeArray(soliloquy_holder));
-                        jQuery.each(soliloquy_images, function(i, el) {
-                            if (typeof jQuery(this).attr("data-soliloquy-src") == "undefined" || false == jQuery(this).attr("data-soliloquy-src")) return;
-                            (new Image()).src = jQuery(this).attr("data-soliloquy-src");
-                            jQuery(this).attr("src", jQuery(this).attr("data-soliloquy-src")).removeAttr("data-soliloquy-src");
-                        });
-                    }
-                    jQuery("#soliloquy-container-45").css({
-                        "background": "transparent",
-                        "height": "auto"
-                    });
-                },
-                before: function(slider) {},
-                after: function(slider) {},
-                end: function(slider) {},
-                added: function(slider) {},
-                removed: function(slider) {}
-            });
-        });
-    </script>
-    <script type="text/javascript">
-        jQuery(window).load(function() {
-            var $ = jQuery;
-            $('#soliloquy-1035').soliloquy({
-                animation: 'fade',
-                slideshow: true,
-                slideshowSpeed: 7000,
-                animationSpeed: 600,
-                directionNav: false,
-                controlNav: false,
-                keyboard: false,
-                multipleKeyboard: false,
-                mousewheel: false,
-                pausePlay: false,
-                randomize: false,
-                startAt: 0,
-                animationLoop: false,
-                pauseOnAction: false,
-                pauseOnHover: false,
-                controlsContainer: '#soliloquy-container-1035',
-                manualControls: '',
-                video: false,
-                useCSS: false,
-                reverse: false,
-                smoothHeight: false,
-                touch: false,
-                initDelay: 0,
-                namespace: 'soliloquy-',
-                selector: '.soliloquy-slides > li',
-                start: function(slider) {
-                    soliloquySlider1035 = slider;
-                    var soliloquy_holder = jQuery(slider).find("img.soliloquy-item-image");
-                    if (0 !== soliloquy_holder.length) {
-                        var soliloquy_images = ([]).concat(soliloquy_holder.splice(0, 2), soliloquy_holder.splice(-2, 2), jQuery.makeArray(soliloquy_holder));
-                        jQuery.each(soliloquy_images, function(i, el) {
-                            if (typeof jQuery(this).attr("data-soliloquy-src") == "undefined" || false == jQuery(this).attr("data-soliloquy-src")) return;
-                            (new Image()).src = jQuery(this).attr("data-soliloquy-src");
-                            jQuery(this).attr("src", jQuery(this).attr("data-soliloquy-src")).removeAttr("data-soliloquy-src");
-                        });
-                    }
-                },
-                before: function(slider) {},
-                after: function(slider) {},
-                end: function(slider) {},
-                added: function(slider) {},
-                removed: function(slider) {}
-            });
-        });
-    </script>
-
+  <footer>
+    <p id="footer"></p>
+  </footer>
 </body>
+<script src="data/ui_data.js"></script>
+<script src="data/list_data.js"></script>
+<script src="index.js"></script>
 
 </html>
