@@ -35,9 +35,10 @@ function addCategoryToMenu(parentDom, name) {
 
 function setHeader(title, githubUrl) {
     document.getElementById("title").innerHTML = title;
-    github = document.getElementById("github");
-    github.innerHTML = githubUrl.replace(/(^\w+:|^)\/\//, '');
+    // github = document.getElementById("github");
+    // github.innerHTML = githubUrl.replace(/(^\w+:|^)\/\//, '');
     github.setAttribute("href", githubUrl);
+
 }
 
 function setDescription(txt) {
@@ -50,7 +51,7 @@ function setFooter(txt) {
 
 function loadData(uiData, items) {
     if (!uiData || !items) return;
-    setHeader(uiData.title, uiData.github);
+    setHeader(uiData.title, uiData.items);
     setDescription(uiData.description);
     setFooter(uiData.footer);
 

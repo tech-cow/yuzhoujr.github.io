@@ -5,7 +5,7 @@ var LIST_DATA = [
     },
     {
         "description": "\ud83d\udd25 Python Solutions of LeetCode Questions \ud83d\udd25",
-        "forks": 51,
+        "forks": 52,
         "lang": "Python",
         "name": "LeetCode",
         "stars": 122,
@@ -13,14 +13,13 @@ var LIST_DATA = [
         "url": "https://github.com/yuzhoujr/LeetCode"
     },
     {
-        "description": "Web-app Project for CSCI 3308",
-        "forks": 0,
-        "lang": "JavaScript",
-        "name": "Grove",
-        "stars": 1,
+        "description": "Helps you stay mindful of your breathing while using your computer",
+        "forks": 96,
+        "lang": "Python",
+        "name": "mindfulness-at-the-computer",
+        "stars": 95,
         "type": "repo",
-        "types": "repo",
-        "url": "https://github.com/yuzhoujr/Grove"
+        "url": "https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer"
     },
     {
         "description": "\ud83d\udc7b wolfcoin, a well-documented 50 liner mini-blockchain using Python \ud83d\udd17 ",
@@ -68,15 +67,6 @@ var LIST_DATA = [
         "url": "https://github.com/yuzhoujr/SimpleURL"
     },
     {
-        "description": "\ud83c\udf5b A python parser using Github's REST API \ud83c\udf71  ",
-        "forks": 0,
-        "lang": "Python",
-        "name": "project-parser",
-        "stars": 1,
-        "type": "repo",
-        "url": "https://github.com/yuzhoujr/project-parser"
-    },
-    {
         "description": "Final Project for CU Data Mining course",
         "forks": 3,
         "lang": "Python",
@@ -95,8 +85,17 @@ var LIST_DATA = [
         "lang": "JavaScript",
         "name": "yuzhoujr.github.io",
         "stars": 4,
-        "types": "repo",
+        "type": "repo",
         "url": "https://github.com/yuzhoujr/yuzhoujr.github.io"
+    },
+    {
+        "description": "\ud83c\udf5b A python parser using Github's REST API \ud83c\udf71  ",
+        "forks": 0,
+        "lang": "JavaScript",
+        "name": "project-parser",
+        "stars": 1,
+        "type": "repo",
+        "url": "https://github.com/yuzhoujr/project-parser"
     },
     {
         "description": null,
@@ -104,7 +103,7 @@ var LIST_DATA = [
         "lang": "JavaScript",
         "name": "mongo_bootcamp",
         "stars": 1,
-        "types": "repo",
+        "type": "repo",
         "url": "https://github.com/yuzhoujr/mongo_bootcamp"
     },
     {
@@ -114,7 +113,6 @@ var LIST_DATA = [
         "name": "Grove",
         "stars": 1,
         "type": "repo",
-        "types": "repo",
         "url": "https://github.com/yuzhoujr/Grove"
     }
 ]

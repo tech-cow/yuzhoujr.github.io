@@ -1,46 +1,49 @@
 <html lang="en">
 
 <head>
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <title>Yu Zhou's Portfolio</title>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <title>Yu Zhou's Portfolio</title>
 
-    <!-- Search Optimization -->
-    <meta name="keywords" content="Software, Engineer, Design, Backend, Fullstack, Yu, Zhou, Graphic Design, Web,logo, App, Mobile">
-    <meta name="description" content="Hire a nice young man :)">
-    <meta name="author" content="Yu Zhou">
+  <!-- Search Optimization -->
+  <meta name="keywords" content="Software, Engineer, Design, Backend, Fullstack, Yu, Zhou, Graphic Design, Web,logo, App, Mobile">
+  <meta name="description" content="Hire a nice young man :)">
+  <meta name="author" content="Yu Zhou">
 
-    <!-- Font + DNS -->
-    <link rel="stylesheet" href="sqmarket-font.css">
-    <link rel="stylesheet" href="index.css">
-
-    <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+  <!-- Font + DNS -->
+  <link rel="stylesheet" href="sqmarket-font.css">
+  <link rel="stylesheet" href="index.css">
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 
 </head>
 
 <body>
+  <div class="container pagehead">
+    <h1 id="title"></h1>
+    <img class="logo" src="/logo.jpg">
+    <a id="github" href="" target="_blank"></a>
+  </div>
 
-
-    <div class="container pagehead">
-        <h1 id="title"></h1>
-        <a id="github" href="" target="_blank"></a>
+  <div class="container profile">
+    <div class="fafa">
+      <span><a href="https://www.linkedin.com/in/yuzhoujr/" target="_blank"><i class="fa fa-linkedin fa-lg fa-fw" style="color:#4D625B;"></i></a></span>
+      <span><a href="https://github.com/yuzhoujr/" target="_blank"><i class="fa fa-github fa-lg fa-fw" style="color:#4D625B;"></i></a></span>
     </div>
+    <p id="description"></p>
+    <ul id="category-menu"></ul>
+  </div>
 
-    <div class="container profile">
-        <p id="description"></p>
-        <ul id="category-menu">
-        </ul>
-    </div>
 
-    <!-- Content -->
-    <div class="container" id="content">
-    </div>
+  <!-- Content -->
+  <div class="container" id="content">
+  </div>
 
-    <footer>
-        <p id="footer"></p>
-    </footer>
+  <footer>
+    <p id="footer"></p>
+  </footer>
 </body>
 <script src="data/ui_data.js"></script>
 <script src="data/list_data.js"></script>
