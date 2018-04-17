@@ -66,7 +66,7 @@ def parse_js(g, repo_hash, temp_list, res):
 
 def main():
     g = Github(config.username, config.password)
-    g = Github('f96494be7d4d22673224d3f3d813f54be0172ec5')
+    # g = Github('f96494be7d4d22673224d3f3d813f54be0172ec5')
     res = []
     parse_python(g, {}, [], res)
     parse_js(g, {}, [], res)
