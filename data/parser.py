@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+#!/usr/bin/python3
 
 import sys
 sys.path.insert(0, '/Users/yui/Dropbox')
