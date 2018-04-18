@@ -101,6 +101,15 @@ var LIST_DATA = [
         "description": null, 
         "forks": 0, 
         "lang": "JavaScript", 
+        "name": "nodejs", 
+        "stars": 1, 
+        "type": "repo", 
+        "url": "https://github.com/yuzhoujr/nodejs"
+    }, 
+    {
+        "description": null, 
+        "forks": 0, 
+        "lang": "JavaScript", 
         "name": "mongo_bootcamp", 
         "stars": 1, 
         "type": "repo", 
