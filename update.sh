@@ -5,6 +5,7 @@ COMMIT= "auto push at "
 TIME=$(date '+%Y-%m-%d %H:%M:%S')
 
 # Executing GitHub API parser to feed JSON data to the frontend
+which python
 python -V
 # pip install pygithub
 python data/parser.py
