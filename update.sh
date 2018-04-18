@@ -9,7 +9,6 @@ pip install pygithub
 python data/parser.py
 
 # Automate Git
-git remote -v
 git add .
 git commit -m "$COMMIT$TIME"
 git push origin master
