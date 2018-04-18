@@ -8,16 +8,16 @@ var LIST_DATA = [
         "forks": 52,
         "lang": "Python",
         "name": "LeetCode",
-        "stars": 122,
+        "stars": 124,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/LeetCode"
     },
     {
         "description": "Helps you stay mindful of your breathing while using your computer",
-        "forks": 96,
+        "forks": 95,
         "lang": "Python",
         "name": "mindfulness-at-the-computer",
-        "stars": 96,
+        "stars": 98,
         "type": "repo",
         "url": "https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer"
     },
@@ -93,9 +93,18 @@ var LIST_DATA = [
         "forks": 0,
         "lang": "JavaScript",
         "name": "project-parser",
-        "stars": 1,
+        "stars": 2,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/project-parser"
+    },
+    {
+        "description": null,
+        "forks": 0,
+        "lang": "JavaScript",
+        "name": "nodejs",
+        "stars": 1,
+        "type": "repo",
+        "url": "https://github.com/yuzhoujr/nodejs"
     },
     {
         "description": null,
