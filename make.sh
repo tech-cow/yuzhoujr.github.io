@@ -8,7 +8,7 @@ cd data
 python parser.py
 
 # Automate Git
-git add .
+git add --all
 git commit -m "$COMMIT$TIME"
 git push origin master
 
