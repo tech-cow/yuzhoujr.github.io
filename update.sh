@@ -1,12 +1,11 @@
 #!/bin/bash
 cd "$(dirname "$0")"
-
 COMMIT= "auto push at "
 TIME=$(date '+%Y-%m-%d %H:%M:%S')
 
 # Executing GitHub API parser to feed JSON data to the frontend
-# pip install pygithub
-python data/parser.py
+cd data
+python parser.py
 
 # Automate Git
 git add .
