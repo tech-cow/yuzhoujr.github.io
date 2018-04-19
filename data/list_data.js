@@ -4,13 +4,13 @@ var LIST_DATA = [
         "type": "category"
     },
     {
-        "description": "\ud83d\udd25 Python Solutions of LeetCode Questions \ud83d\udd25",
-        "forks": 52,
+        "description": "\ud83d\udc4f\ud83c\udffb leetcode solutions for human\u2122 ",
+        "forks": 53,
         "lang": "Python",
-        "name": "LeetCode",
-        "stars": 124,
+        "name": "leetcode",
+        "stars": 126,
         "type": "repo",
-        "url": "https://github.com/yuzhoujr/LeetCode"
+        "url": "https://github.com/yuzhoujr/leetcode"
     },
     {
         "description": "Helps you stay mindful of your breathing while using your computer",
@@ -22,7 +22,7 @@ var LIST_DATA = [
         "url": "https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer"
     },
     {
-        "description": "\ud83d\udc7b wolfcoin, a well-documented 50 liner mini-blockchain using Python \ud83d\udd17 ",
+        "description": "\ud83d\udd17  a 50 liner mini-blockchain ",
         "forks": 0,
         "lang": "Python",
         "name": "wolfcoin",
@@ -31,7 +31,7 @@ var LIST_DATA = [
         "url": "https://github.com/yuzhoujr/wolfcoin"
     },
     {
-        "description": "\u2744 a well-documented replica of Daniel van Flymen's blockchain using Python\u26a1",
+        "description": "\u26a1 a slightly more sophisticated blockchain",
         "forks": 2,
         "lang": "Python",
         "name": "blockmaster",
@@ -80,7 +80,7 @@ var LIST_DATA = [
         "type": "category"
     },
     {
-        "description": "\ud83d\uddff Progression of my ugly portfolio from its uglier past \ud83d\ude11",
+        "description": "\ud83d\ude4a a minimalistic vanilla js web",
         "forks": 1,
         "lang": "JavaScript",
         "name": "yuzhoujr.github.io",
@@ -96,15 +96,6 @@ var LIST_DATA = [
         "stars": 2,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/project-parser"
-    },
-    {
-        "description": null,
-        "forks": 0,
-        "lang": "JavaScript",
-        "name": "nodejs",
-        "stars": 1,
-        "type": "repo",
-        "url": "https://github.com/yuzhoujr/nodejs"
     },
     {
         "description": null,
