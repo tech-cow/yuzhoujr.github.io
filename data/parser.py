@@ -1,13 +1,10 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #!/usr/bin/python3
-
+import json
 import sys
+from github import Github
 sys.path.insert(0, '/Users/yui/Dropbox')
 import config
-from github import Github
-import pprint
-import json
 
 def parse_python(g, repo_hash, temp_list, res):
     '''

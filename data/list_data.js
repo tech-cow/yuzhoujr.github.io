@@ -4,11 +4,11 @@ var LIST_DATA = [
         "type": "category"
     },
     {
-        "description": "\ud83d\udc4f\ud83c\udffb leetcode solutions for human\u2122 ",
-        "forks": 53,
+        "description": "\ud83d\udc4f\ud83c\udffb leetcode solutions for Humans\u2122",
+        "forks": 54,
         "lang": "Python",
         "name": "leetcode",
-        "stars": 126,
+        "stars": 127,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/leetcode"
     },
@@ -22,7 +22,7 @@ var LIST_DATA = [
         "url": "https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer"
     },
     {
-        "description": "\ud83d\udd17  a 50 liner mini-blockchain ",
+        "description": "\ud83d\udd17  a 50-line mini-blockchain ",
         "forks": 0,
         "lang": "Python",
         "name": "wolfcoin",
@@ -65,6 +65,15 @@ var LIST_DATA = [
         "stars": 1,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/SimpleURL"
+    },
+    {
+        "description": ":octocat: README.md generator for Humans\u2122 ",
+        "forks": 0,
+        "lang": "Python",
+        "name": "marker",
+        "stars": 1,
+        "type": "repo",
+        "url": "https://github.com/yuzhoujr/marker"
     },
     {
         "description": "Final Project for CU Data Mining course",
