@@ -17,7 +17,7 @@ var LIST_DATA = [
         "forks": 96,
         "lang": "Python",
         "name": "mindfulness-at-the-computer",
-        "stars": 98,
+        "stars": 99,
         "type": "repo",
         "url": "https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer"
     },
@@ -67,7 +67,7 @@ var LIST_DATA = [
         "url": "https://github.com/yuzhoujr/SimpleURL"
     },
     {
-        "description": ":octocat: README.md generator for Humans\u2122 ",
+        "description": "\ud83d\udcdd  README.md generator for Humans\u2122 ",
         "forks": 0,
         "lang": "Python",
         "name": "marker",
