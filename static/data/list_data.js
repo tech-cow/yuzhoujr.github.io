@@ -5,24 +5,24 @@ var LIST_DATA = [
     },
     {
         "description": "\ud83d\udc4f\ud83c\udffb leetcode solutions for Humans\u2122",
-        "forks": 54,
+        "forks": 53,
         "lang": "Python",
         "name": "leetcode",
-        "stars": 128,
+        "stars": 131,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/leetcode"
     },
     {
         "description": "Helps you stay mindful of your breathing while using your computer",
-        "forks": 96,
+        "forks": 97,
         "lang": "Python",
         "name": "mindfulness-at-the-computer",
-        "stars": 99,
+        "stars": 101,
         "type": "repo",
         "url": "https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer"
     },
     {
-        "description": "\ud83d\udd17  a 50-line mini-blockchain ",
+        "description": "\ud83d\udd17 50-line blockchain ",
         "forks": 0,
         "lang": "Python",
         "name": "wolfcoin",
@@ -31,7 +31,7 @@ var LIST_DATA = [
         "url": "https://github.com/yuzhoujr/wolfcoin"
     },
     {
-        "description": "\u26a1 a slightly more sophisticated blockchain",
+        "description": "\u26a1 slightly more sophisticated blockchain",
         "forks": 2,
         "lang": "Python",
         "name": "blockmaster",
@@ -47,6 +47,15 @@ var LIST_DATA = [
         "stars": 4,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/LovePython101"
+    },
+    {
+        "description": "\ud83c\udf49 CoinMarketCap API for Humans\u2122 ",
+        "forks": 0,
+        "lang": "Python",
+        "name": "secret_passive",
+        "stars": 2,
+        "type": "repo",
+        "url": "https://github.com/yuzhoujr/secret_passive"
     },
     {
         "description": "\ud83d\ude80 Refactoring Attempt of Engineerman's Snake Game \ud83d\udd30",
@@ -89,7 +98,7 @@ var LIST_DATA = [
         "type": "category"
     },
     {
-        "description": "\ud83d\ude4a a minimalistic vanilla js web",
+        "description": "\ud83d\ude4a minimalistic vanilla js web",
         "forks": 1,
         "lang": "JavaScript",
         "name": "yuzhoujr.github.io",
