@@ -58,6 +58,15 @@ var LIST_DATA = [
         "url": "https://github.com/yuzhoujr/secret_passive"
     },
     {
+        "description": "\ud83d\udcdd  README.md generator for Humans\u2122 ",
+        "forks": 0,
+        "lang": "Python",
+        "name": "marker",
+        "stars": 2,
+        "type": "repo",
+        "url": "https://github.com/yuzhoujr/marker"
+    },
+    {
         "description": "\ud83d\ude80 Refactoring Attempt of Engineerman's Snake Game \ud83d\udd30",
         "forks": 0,
         "lang": "Python",
@@ -74,15 +83,6 @@ var LIST_DATA = [
         "stars": 1,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/SimpleURL"
-    },
-    {
-        "description": "\ud83d\udcdd  README.md generator for Humans\u2122 ",
-        "forks": 0,
-        "lang": "Python",
-        "name": "marker",
-        "stars": 1,
-        "type": "repo",
-        "url": "https://github.com/yuzhoujr/marker"
     },
     {
         "description": "Final Project for CU Data Mining course",
