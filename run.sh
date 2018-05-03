@@ -14,3 +14,4 @@ git push origin master
 
 # Crontab Command
 # */1 * * * * /Users/yui/Dropbox/github/portfolio/update.sh > /var/log/myjob.log 2>&1
+om

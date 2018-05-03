@@ -14,10 +14,10 @@ var LIST_DATA = [
     },
     {
         "description": "Helps you stay mindful of your breathing while using your computer",
-        "forks": 97,
+        "forks": 98,
         "lang": "Python",
         "name": "mindfulness-at-the-computer",
-        "stars": 101,
+        "stars": 102,
         "type": "repo",
         "url": "https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer"
     },
@@ -47,6 +47,15 @@ var LIST_DATA = [
         "stars": 4,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/LovePython101"
+    },
+    {
+        "description": "\ud83c\udf7bgarbage folder with infinite possiblities",
+        "forks": 0,
+        "lang": "Python",
+        "name": "spazzatura",
+        "stars": 2,
+        "type": "repo",
+        "url": "https://github.com/yuzhoujr/spazzatura"
     },
     {
         "description": "\ud83c\udf49 CoinMarketCap API for Humans\u2122 ",
