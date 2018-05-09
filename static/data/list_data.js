@@ -5,19 +5,19 @@ var LIST_DATA = [
     },
     {
         "description": "\ud83d\udc4f\ud83c\udffb leetcode solutions for Humans\u2122",
-        "forks": 53,
+        "forks": 55,
         "lang": "Python",
         "name": "leetcode",
-        "stars": 131,
+        "stars": 133,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/leetcode"
     },
     {
         "description": "Helps you stay mindful of your breathing while using your computer",
-        "forks": 98,
+        "forks": 99,
         "lang": "Python",
         "name": "mindfulness-at-the-computer",
-        "stars": 102,
+        "stars": 103,
         "type": "repo",
         "url": "https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer"
     },
