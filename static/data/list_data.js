@@ -5,19 +5,19 @@ var LIST_DATA = [
     },
     {
         "description": "\ud83d\udc4f\ud83c\udffb leetcode solutions for Humans\u2122",
-        "forks": 55,
+        "forks": 56,
         "lang": "Python",
         "name": "leetcode",
-        "stars": 133,
+        "stars": 136,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/leetcode"
     },
     {
         "description": "Helps you stay mindful of your breathing while using your computer",
-        "forks": 99,
+        "forks": 103,
         "lang": "Python",
         "name": "mindfulness-at-the-computer",
-        "stars": 103,
+        "stars": 108,
         "type": "repo",
         "url": "https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer"
     },
@@ -47,6 +47,15 @@ var LIST_DATA = [
         "stars": 4,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/LovePython101"
+    },
+    {
+        "description": "\ud83d\udccb available google domain from fortune 1000 companies",
+        "forks": 0,
+        "lang": "Python",
+        "name": "google-domain",
+        "stars": 4,
+        "type": "repo",
+        "url": "https://github.com/yuzhoujr/google-domain"
     },
     {
         "description": "\ud83c\udf7bgarbage folder with infinite possiblities",
