@@ -8,7 +8,7 @@ var LIST_DATA = [
         "forks": 56,
         "lang": "Python",
         "name": "leetcode",
-        "stars": 136,
+        "stars": 138,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/leetcode"
     },
@@ -17,9 +17,18 @@ var LIST_DATA = [
         "forks": 103,
         "lang": "Python",
         "name": "mindfulness-at-the-computer",
-        "stars": 108,
+        "stars": 110,
         "type": "repo",
         "url": "https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer"
+    },
+    {
+        "description": ":octocat: Get into Google for Humans\u2122",
+        "forks": 0,
+        "lang": "Python",
+        "name": "googler",
+        "stars": 7,
+        "type": "repo",
+        "url": "https://github.com/yuzhoujr/googler"
     },
     {
         "description": "\ud83d\udd17 50-line blockchain ",
