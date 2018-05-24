@@ -23,10 +23,10 @@ var LIST_DATA = [
     },
     {
         "description": ":octocat: Get into Google for Humans\u2122",
-        "forks": 0,
+        "forks": 1,
         "lang": "Python",
         "name": "googler",
-        "stars": 7,
+        "stars": 11,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/googler"
     },
