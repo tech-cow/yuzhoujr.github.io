@@ -5,10 +5,10 @@ var LIST_DATA = [
     },
     {
         "description": "\ud83d\udc4f\ud83c\udffb leetcode solutions for Humans\u2122",
-        "forks": 56,
+        "forks": 57,
         "lang": "Python",
         "name": "leetcode",
-        "stars": 138,
+        "stars": 136,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/leetcode"
     },
