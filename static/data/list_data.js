@@ -8,16 +8,16 @@ var LIST_DATA = [
         "forks": 57,
         "lang": "Python",
         "name": "leetcode",
-        "stars": 136,
+        "stars": 138,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/leetcode"
     },
     {
         "description": "Helps you stay mindful of your breathing while using your computer",
-        "forks": 103,
+        "forks": 107,
         "lang": "Python",
         "name": "mindfulness-at-the-computer",
-        "stars": 110,
+        "stars": 113,
         "type": "repo",
         "url": "https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer"
     },
@@ -26,7 +26,7 @@ var LIST_DATA = [
         "forks": 1,
         "lang": "Python",
         "name": "googler",
-        "stars": 11,
+        "stars": 12,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/googler"
     },
@@ -41,7 +41,7 @@ var LIST_DATA = [
     },
     {
         "description": "\u26a1 slightly more sophisticated blockchain",
-        "forks": 2,
+        "forks": 3,
         "lang": "Python",
         "name": "blockmaster",
         "stars": 5,
@@ -86,7 +86,7 @@ var LIST_DATA = [
     },
     {
         "description": "\ud83d\udcdd  README.md generator for Humans\u2122 ",
-        "forks": 0,
+        "forks": 1,
         "lang": "Python",
         "name": "marker",
         "stars": 2,
