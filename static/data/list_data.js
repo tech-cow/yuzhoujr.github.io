@@ -8,25 +8,25 @@ var LIST_DATA = [
         "forks": 57,
         "lang": "Python",
         "name": "leetcode",
-        "stars": 138,
+        "stars": 142,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/leetcode"
     },
     {
         "description": "Helps you stay mindful of your breathing while using your computer",
-        "forks": 107,
+        "forks": 109,
         "lang": "Python",
         "name": "mindfulness-at-the-computer",
-        "stars": 113,
+        "stars": 116,
         "type": "repo",
         "url": "https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer"
     },
     {
         "description": ":octocat: Get into Google for Humans\u2122",
-        "forks": 1,
+        "forks": 2,
         "lang": "Python",
         "name": "googler",
-        "stars": 12,
+        "stars": 13,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/googler"
     },
@@ -38,15 +38,6 @@ var LIST_DATA = [
         "stars": 5,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/wolfcoin"
-    },
-    {
-        "description": "\u26a1 slightly more sophisticated blockchain",
-        "forks": 3,
-        "lang": "Python",
-        "name": "blockmaster",
-        "stars": 5,
-        "type": "repo",
-        "url": "https://github.com/yuzhoujr/blockmaster"
     },
     {
         "description": "\u5341\u5c0f\u65f6\u5b66\u4f1aPython",
@@ -65,6 +56,15 @@ var LIST_DATA = [
         "stars": 4,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/google-domain"
+    },
+    {
+        "description": "\u26a1 slightly more sophisticated blockchain",
+        "forks": 3,
+        "lang": "Python",
+        "name": "blockmaster",
+        "stars": 4,
+        "type": "repo",
+        "url": "https://github.com/yuzhoujr/blockmaster"
     },
     {
         "description": "\ud83c\udf7bgarbage folder with infinite possiblities",
