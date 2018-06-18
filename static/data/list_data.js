@@ -8,7 +8,7 @@ var LIST_DATA = [
         "forks": 58,
         "lang": "Python",
         "name": "leetcode",
-        "stars": 144,
+        "stars": 146,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/leetcode"
     },
@@ -17,7 +17,7 @@ var LIST_DATA = [
         "forks": 110,
         "lang": "Python",
         "name": "mindfulness-at-the-computer",
-        "stars": 118,
+        "stars": 119,
         "type": "repo",
         "url": "https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer"
     },
