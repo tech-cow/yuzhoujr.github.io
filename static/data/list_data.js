@@ -5,10 +5,10 @@ var LIST_DATA = [
     },
     {
         "description": "\ud83d\udc4f\ud83c\udffb leetcode solutions for Humans\u2122",
-        "forks": 60,
+        "forks": 61,
         "lang": "Python",
         "name": "leetcode",
-        "stars": 152,
+        "stars": 153,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/leetcode"
     },
@@ -110,6 +110,15 @@ var LIST_DATA = [
         "stars": 1,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/SimpleURL"
+    },
+    {
+        "description": "\ud83c\udf00CPython source walkthrough",
+        "forks": 0,
+        "lang": "Python",
+        "name": "cpython-internal",
+        "stars": 1,
+        "type": "repo",
+        "url": "https://github.com/yuzhoujr/cpython-internal"
     },
     {
         "description": "Final Project for CU Data Mining course",
