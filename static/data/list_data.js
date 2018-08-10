@@ -5,10 +5,10 @@ var LIST_DATA = [
     },
     {
         "description": "\ud83d\udc4f\ud83c\udffb leetcode solutions for Humans\u2122",
-        "forks": 61,
+        "forks": 66,
         "lang": "Python",
         "name": "leetcode",
-        "stars": 153,
+        "stars": 183,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/leetcode"
     },
@@ -17,7 +17,7 @@ var LIST_DATA = [
         "forks": 111,
         "lang": "Python",
         "name": "mindfulness-at-the-computer",
-        "stars": 121,
+        "stars": 126,
         "type": "repo",
         "url": "https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer"
     },
@@ -26,7 +26,7 @@ var LIST_DATA = [
         "forks": 2,
         "lang": "Python",
         "name": "googler",
-        "stars": 18,
+        "stars": 19,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/googler"
     },
@@ -35,9 +35,18 @@ var LIST_DATA = [
         "forks": 0,
         "lang": "Python",
         "name": "wolfcoin",
-        "stars": 5,
+        "stars": 7,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/wolfcoin"
+    },
+    {
+        "description": "\u26a1 slightly more sophisticated blockchain",
+        "forks": 3,
+        "lang": "Python",
+        "name": "blockmaster",
+        "stars": 5,
+        "type": "repo",
+        "url": "https://github.com/yuzhoujr/blockmaster"
     },
     {
         "description": "\u5341\u5c0f\u65f6\u5b66\u4f1aPython",
@@ -58,20 +67,11 @@ var LIST_DATA = [
         "url": "https://github.com/yuzhoujr/google-domain"
     },
     {
-        "description": "\u26a1 slightly more sophisticated blockchain",
-        "forks": 3,
-        "lang": "Python",
-        "name": "blockmaster",
-        "stars": 4,
-        "type": "repo",
-        "url": "https://github.com/yuzhoujr/blockmaster"
-    },
-    {
         "description": "\ud83c\udf7bgarbage folder with infinite possiblities",
         "forks": 0,
         "lang": "Python",
         "name": "spazzatura",
-        "stars": 2,
+        "stars": 3,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/spazzatura"
     },
@@ -135,10 +135,10 @@ var LIST_DATA = [
     },
     {
         "description": "\ud83d\ude4a minimalistic vanilla js web",
-        "forks": 1,
+        "forks": 2,
         "lang": "JavaScript",
         "name": "yuzhoujr.github.io",
-        "stars": 4,
+        "stars": 5,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/yuzhoujr.github.io"
     },
