@@ -5,10 +5,10 @@ var LIST_DATA = [
     },
     {
         "description": "\ud83d\udc4f\ud83c\udffb leetcode solutions for Humans\u2122",
-        "forks": 66,
+        "forks": 74,
         "lang": "Python",
         "name": "leetcode",
-        "stars": 183,
+        "stars": 208,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/leetcode"
     },
@@ -17,7 +17,7 @@ var LIST_DATA = [
         "forks": 111,
         "lang": "Python",
         "name": "mindfulness-at-the-computer",
-        "stars": 126,
+        "stars": 131,
         "type": "repo",
         "url": "https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer"
     },
@@ -26,7 +26,7 @@ var LIST_DATA = [
         "forks": 2,
         "lang": "Python",
         "name": "googler",
-        "stars": 19,
+        "stars": 20,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/googler"
     },
@@ -138,7 +138,7 @@ var LIST_DATA = [
         "forks": 2,
         "lang": "JavaScript",
         "name": "yuzhoujr.github.io",
-        "stars": 5,
+        "stars": 6,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/yuzhoujr.github.io"
     },
