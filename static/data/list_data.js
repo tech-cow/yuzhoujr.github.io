@@ -5,19 +5,19 @@ var LIST_DATA = [
     },
     {
         "description": "\ud83d\udc4f\ud83c\udffb leetcode solutions for Humans\u2122",
-        "forks": 74,
+        "forks": 84,
         "lang": "Python",
         "name": "leetcode",
-        "stars": 208,
+        "stars": 247,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/leetcode"
     },
     {
         "description": "Helps you stay mindful of your breathing while using your computer",
-        "forks": 111,
+        "forks": 110,
         "lang": "Python",
         "name": "mindfulness-at-the-computer",
-        "stars": 131,
+        "stars": 134,
         "type": "repo",
         "url": "https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer"
     },
@@ -26,7 +26,7 @@ var LIST_DATA = [
         "forks": 2,
         "lang": "Python",
         "name": "googler",
-        "stars": 20,
+        "stars": 23,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/googler"
     },
@@ -49,6 +49,15 @@ var LIST_DATA = [
         "url": "https://github.com/yuzhoujr/blockmaster"
     },
     {
+        "description": "\ud83c\udf7bgarbage folder with float('inf') possiblities",
+        "forks": 0,
+        "lang": "Python",
+        "name": "spazzatura",
+        "stars": 4,
+        "type": "repo",
+        "url": "https://github.com/yuzhoujr/spazzatura"
+    },
+    {
         "description": "\u5341\u5c0f\u65f6\u5b66\u4f1aPython",
         "forks": 1,
         "lang": "Python",
@@ -65,15 +74,6 @@ var LIST_DATA = [
         "stars": 4,
         "type": "repo",
         "url": "https://github.com/yuzhoujr/google-domain"
-    },
-    {
-        "description": "\ud83c\udf7bgarbage folder with infinite possiblities",
-        "forks": 0,
-        "lang": "Python",
-        "name": "spazzatura",
-        "stars": 3,
-        "type": "repo",
-        "url": "https://github.com/yuzhoujr/spazzatura"
     },
     {
         "description": "\ud83c\udf49 CoinMarketCap API for Humans\u2122 ",
